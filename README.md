@@ -37,3 +37,10 @@
 
 7)Report path : target>site>serenity>index.html
 
+## Note:
+
+1)The provided apk file is not supportive and its been always crashing
+
+2)So, scenario is not up-to checkout flow , search and validate the product details
+
+3)Please install apk in emulator or real device before run the test.
