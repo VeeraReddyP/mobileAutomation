@@ -1,0 +1,12 @@
+{
+  "android": {
+    "platformName": "android",
+    "automationName": "uiautomator2",
+    "appPackage":"com.ebay.mobile",
+    "appActivity":"com.ebay.mobile.activities.MainActivity",
+    "newCommandTimeout": 60,
+    "deviceName": "Android",
+    "nativeWebScreenshot":true,
+    "noReset": true
+  }
+}
